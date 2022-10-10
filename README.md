@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/Clipboard-landing-page)
+- Live Site URL: [live site](https://frabjous-cuchufli-b6c6fe.netlify.app/)
 
 ### Built with
 
